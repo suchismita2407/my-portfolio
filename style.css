@@ -114,8 +114,36 @@ img.stretchy{
   width: 100%;
   height: auto;
   background: none;
+  /* box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 2px; */
+}
+
+/* ABOUT SECTION */
+
+.img{
+  width: 100%;
+  height: auto;
+  background: none;
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 2px;
+
+}
+
+.about{
+  margin-top: 8%;
+}
+
+.aboutsection-heading{
+  font-size: 3rem;
+  text-align: center;
+  color: #201F1D;
+  font-weight: bolder;
+  padding-bottom: 6%;
+}
+
+.about-description{
+  line-height: 2;
+  text-align: justify;
 }
 
 
